@@ -1,5 +1,5 @@
 
-import { ArrowBigDown, Chrome } from "lucide-react"
+import { Chrome } from "lucide-react"
 import { NavMenu } from "./NavMenu";
 
 export default function Header() {
